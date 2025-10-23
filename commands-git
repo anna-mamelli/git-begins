@@ -4,6 +4,6 @@ git add .
 
 git commit -m "Share project report"
 
-git puh origin main
+git push origin main
 
 git pull origin main
