@@ -7,3 +7,9 @@ git commit -m "Share project report"
 git push origin main
 
 git pull origin main
+
+# Créer une branche
+git branch nom_de_la_branche
+
+# Passer sur une autre branche
+git switch nom_de_la_branche
